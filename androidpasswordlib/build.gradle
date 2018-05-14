@@ -36,8 +36,8 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'androidpasswordlib'   // Has to be same as your library module name
 
-    publishedGroupId = 'com.github.nisrulz'
-    libraryName = 'androidpasswordlib'
+    publishedGroupId = 'com.bhargava.passwordlib'
+    libraryName = 'AndroidPasswordLib'
     artifact = 'androidpasswordlib'     // Has to be same as your library module name
 
     libraryDescription = 'Android Library to make any text into Toast with Awesome prepended to the text'
@@ -47,12 +47,11 @@ ext {
     gitUrl = 'https://github.com/bhargavamandapati/JcenterLibraryTest.git'
     githubRepository= 'bhargavamandapati/JcenterLibraryTest'
 
-    libraryVersion = '1.0'
+    libraryVersion = '1.0.0'
 
-    developerId = 'peopletechgroup'
-    developerName = 'peopletech group'
-    developerEmail = 'bhargavamandapati@gmail.com'
-
+    developerId = 'bhargavamandapati133'
+    developerName = 'bhargava mandapati'
+    developerEmail = 'bhargava.mandapati@rampgroup.in'
     licenseName = 'The Apache Software License, Version 2.0'
     licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
     allLicenses = ["Apache-2.0"]
