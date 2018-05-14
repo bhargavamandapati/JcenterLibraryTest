@@ -33,11 +33,11 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 }
 ext {
-    bintrayRepo = 'maven'
+    bintrayRepo = 'AndroidPasswordLib'
     bintrayName = 'androidpasswordlib'   // Has to be same as your library module name
 
     publishedGroupId = 'com.bhargava.passwordlib'
-    libraryName = 'AndroidPasswordLib'
+    libraryName = 'androidpasswordlib'
     artifact = 'androidpasswordlib'     // Has to be same as your library module name
 
     libraryDescription = 'Android Library to make any text into Toast with Awesome prepended to the text'
