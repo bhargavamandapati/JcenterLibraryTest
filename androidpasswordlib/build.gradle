@@ -43,9 +43,9 @@ ext {
     libraryDescription = 'Android Library to make any text into Toast with Awesome prepended to the text'
 
     // Your github repo link
-    siteUrl = 'https://github.com/nisrulz/UploadToBintray'
-    gitUrl = 'https://github.com/nisrulz/UploadToBintray.git'
-    githubRepository= 'nisrulz/UploadToBintray'
+    siteUrl = 'https://github.com/bhargavamandapati/JcenterLibraryTest'
+    gitUrl = 'https://github.com/bhargavamandapati/JcenterLibraryTest.git'
+    githubRepository= 'bhargavamandapati/JcenterLibraryTest'
 
     libraryVersion = '1.0'
 
